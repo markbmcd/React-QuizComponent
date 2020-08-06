@@ -2,7 +2,7 @@
   "quiz_questions": [
     {
       "id": 1,
-      "instruction_text": "How many continents are there on Planet Peach Earth?",
+      "instruction_text": "How many continents are there on Planet Earth?",
       "answer_options": ["5", "6", "7", "8"],
       "answer": "7"
     },
